@@ -1,7 +1,7 @@
 ---
-title: Your Website
-author: Your Name Here
-description: "A quick website description"
+title: Forward Motion Module
+author: Michael Jung
+description: "o hello there"
 layout: default
 permalink: /
 ---
