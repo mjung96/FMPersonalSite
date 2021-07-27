@@ -1,36 +1,16 @@
-header: Say something about what you're good at
+header: I'm good at nothing !
 
-subheader: Give some more context
+subheader: you heard that right !
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: n/a
+    description: nonexistent 
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: n / a pt.2
+    description: unavailable 
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: n / a pt.3
+    description: deceased 
 
 #If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
-
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+certifications: n / a pt.4

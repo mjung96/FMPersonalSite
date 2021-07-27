@@ -1,13 +1,10 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: GeoBean
+  description: Find specialty coffee spots near you using your geo coordinates!
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: OnAUX
+  description: A collaborative music player where you can vote for songs to queue!
 
-- name: Project 3
-  description: A few sentences describing your project.
-
-- name: Project 4
-  description: A few sentences describing your project.
+- name: ScreamKnight
+  description: Dodge incoming monsters in this side-scroller by yelling into the mic to move your sprite up and down!
